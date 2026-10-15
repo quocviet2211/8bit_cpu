@@ -1,2 +1,2 @@
-# 8bit_cpu
-8bit CPU RTL Code
+# 4bit_CPU_Datapath_Vivado
+4bit_CPU_Datapath_Vivado
